@@ -1,0 +1,36 @@
+.list {
+  cursor: pointer;
+  color: #3F7F62;
+}
+
+.list:hover {
+  text-decoration: underline;
+}
+
+#task-form {
+  display: none;
+}
+
+/*body  {
+  background-color: #CAFFE7;
+  border: 1px red;
+}
+
+h3, li  {
+  font-family: verdana;
+}
+
+#container  {
+  padding: 100px 100px 100px 100px;
+}
+
+#task-list  {
+  width: 30%;
+  float: right;
+}
+
+#list-list  {
+  width: 30%;
+}
+
+*/
